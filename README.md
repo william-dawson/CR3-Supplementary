@@ -7,5 +7,9 @@ Space and Energy".
 ## Structure
 
 * geom: pdb files of the systems studied
-* notebooks: Jupyter notebooks for the different calculations
+* notebooks/Basis.ipynb: compare different basis sets.
+* notebooks/Core.ipynb: analysis using the core density matrix.
+* notebooks/Fraction.ipynb: variation of the ratio of exact exchange.
+* notebooks/Functional.ipynb: compare different functionals.
+* notebooks/LargeCalculation.ipynb: the large protein calculation.
 
